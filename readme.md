@@ -2,7 +2,7 @@
 ### Template and reference for react-redux
 (using create-react-app)
 
-![ScreenShot](client/public/images/screenshot.png)
+![ScreenShot](client/public/images/dev-screenshot.png)
 
 
 **🌟 (recommended) Out of the box template at**: https://redux-toolkit.js.org/introduction/getting-started
