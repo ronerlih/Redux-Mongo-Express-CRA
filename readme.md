@@ -5,7 +5,7 @@
 ![ScreenShot](client/public/images/dev-screenshot.png)
 
 
-**🌟 (recommended) Out of the box template at**: https://redux-toolkit.js.org/introduction/getting-started
+🌟 *(recommended)* **out of the box template at**: https://redux-toolkit.js.org/introduction/getting-started
 
 ### 👟 Run
 1. In root folder using the command line, run <kbd>yarn</kbd>.
