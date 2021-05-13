@@ -1,7 +1,8 @@
 # 📦 Redux-Mongo-Express-CRA
-
 ### Template and reference for react-redux
 (using create-react-app)
+
+![ScreenShot](client/public/images/screenshot.png)
 
 
 **🌟 (recommended) Out of the box template at**: https://redux-toolkit.js.org/introduction/getting-started

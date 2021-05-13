@@ -8,7 +8,7 @@ export default function Nav() {
     const loadingState = useSelector(selectLoading);
 
     return (
-        <nav style={{borderTop:"1px solid #770b96"}} className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav style={{borderTop:"1px solid #770b96", marginBottom: 20}} className="navbar navbar-expand-lg navbar-light bg-light">
           <a className="navbar-brand" href="/">
             Your personal CMS
           </a>
